@@ -133,9 +133,10 @@ nav {
 .fgris {
   color: #3f3f3f;
 }
-.iconos {
+.filtros {
   margin-bottom: 20px;
   margin-top: 40px;
+  height: 100px;
 }
 .btn-encontrar {
   color: #8fb12c;
@@ -289,4 +290,13 @@ nav {
   bottom: 0;
   padding: 1em;
   text-align: right;
+}
+.selects {
+  width: 100%;
+  font-size: 2em;
+  color: gray;
+}
+#filtroDos,
+#filtroTres {
+  display: none;
 }
