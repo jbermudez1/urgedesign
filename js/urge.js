@@ -20,7 +20,7 @@ function inicio (){
 	})
 
 	$("#filtroTres > select").change(function(){
-		window.location.href = "resultadoTramites.html";
+		window.location.href = "resultadoGuiaEmpresarial.html";
 	})
 
 
